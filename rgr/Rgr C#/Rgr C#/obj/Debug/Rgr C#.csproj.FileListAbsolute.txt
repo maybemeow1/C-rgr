@@ -1,0 +1,5 @@
+C:\Users\olecs\Desktop\rgr\Rgr C#\Rgr C#\obj\Debug\Rgr C#.csproj.AssemblyReference.cache
+C:\Users\olecs\Desktop\rgr\Rgr C#\Rgr C#\obj\Debug\MainForm.resources
+C:\Users\olecs\Desktop\rgr\Rgr C#\Rgr C#\obj\Debug\Rgr_C_.Properties.Resources.resources
+C:\Users\olecs\Desktop\rgr\Rgr C#\Rgr C#\obj\Debug\Rgr C#.csproj.GenerateResource.cache
+C:\Users\olecs\Desktop\rgr\Rgr C#\Rgr C#\obj\Debug\Rgr C#.csproj.CoreCompileInputs.cache

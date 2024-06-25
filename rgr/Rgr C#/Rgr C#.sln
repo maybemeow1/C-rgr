@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rgr C#", "Rgr C#\Rgr C#.csproj", "{7BE4AE18-4450-4F1C-85C5-7F412A3E806B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE4AE18-4450-4F1C-85C5-7F412A3E806B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE4AE18-4450-4F1C-85C5-7F412A3E806B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE4AE18-4450-4F1C-85C5-7F412A3E806B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE4AE18-4450-4F1C-85C5-7F412A3E806B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEFEA65A-96B1-436A-92E3-46F34700E15A}
+	EndGlobalSection
+EndGlobal
